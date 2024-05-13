@@ -1,4 +1,4 @@
-name: github actions testt
+name: github actions test
 on:
     push:
         branches:
